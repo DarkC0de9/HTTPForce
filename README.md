@@ -1,11 +1,8 @@
 # HTTPForce
 HTTPForce is a simple program that uses a dictionary attack to bruteforce HTTP basic authentication pages.
-
 Lets just get this out of the way real quick:
 Im not responsible if you use this program nefariously or get in trouble with it.
-
 Now that you're totally not going to illegally hack cameras in other countries, lets get started!
-
 Make sure you install the requests module before runnning this program.
 'pip install requests'
 
@@ -27,9 +24,6 @@ If you attack a site that is not Basic Auth, the program will likley give a "fal
 
 There really isnt much more to this program...
 If you have any suggestions or bug reports please let me know.
-
-![alt text](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi3jp3CtujeAhWzrIMKHZdGBEEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.statuscake.com%2Fusing-statuscake-to-test-login-and-a-variety-of-other-transactions%2F&psig=AOvVaw1sPagTBbaAbggL9z31GSul&ust=1542989466234256)
-
 
 Happy hacking!
 
