@@ -10,8 +10,11 @@ Make sure you install the requests module before runnning this program.
 USAGE: 'python3 httpforce.py'
 
 This program is pretty straightforward to use.
+
 Username: The username you want to attempt to bruteforce
+
 Wordlist: the wordlist to run through for password attempts, one password on each line.
+
 URL: The target URL you want to attack. Make sure you put the full URL and not just the IP.
 
 There are two main options when you begin the program: 
